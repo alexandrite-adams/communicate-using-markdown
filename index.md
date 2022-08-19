@@ -8,3 +8,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 (This was the example...)
 ```
+
+```
+- [ ] Do this hw
+- [x] Work on code
+- [ ] AA homework
+```
